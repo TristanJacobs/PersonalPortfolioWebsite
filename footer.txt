@@ -1,0 +1,2 @@
+<hr>
+<p id="footer">&copy; Tristan Jacobs, 2023</p> 
